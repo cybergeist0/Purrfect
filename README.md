@@ -1,5 +1,5 @@
 
-# Pet Tinder & Purrfect Website
+# Purrfect
 
 This repository contains two related projects: **Pet Tinder** and **Purrfect**, which are web applications aimed at helping users find and adopt pets based on preferences and personality.
 
