@@ -1,5 +1,5 @@
 
-# Project Story: **Purrfect** – A Fun Pet Adoption Platform
+# **Purrfect** – A Fun Pet Adoption Platform
 
 ## What Inspired Me
 
