@@ -1,21 +1,11 @@
 
 # Purrfect
 
-This repository contains two related projects: **Pet Tinder** and **Purrfect**, which are web applications aimed at helping users find and adopt pets based on preferences and personality.
-
 ### Features:
-- **Pet Tinder:**
-  - Swipe left or right to view pets.
-  - Pets are added manually by users.
-  - Logged-in users can save their favorite pets.
-  - Basic pet information like name, age, breed, and personality are displayed.
-  - Animated swipe effects and interactions.
-
-- **Purrfect:**
   - A pet adoption website where users match with adoptable pets.
   - Users can create an account, log in, and save pets to their favorites.
   - Users can click an "Adopt" icon to be redirected to a pet's adoption link.
-  - The website features a playful, lighthearted theme with animations.
+  - The website features a playful, lighthearted theme.
 
 ### Future Features:
 - Integration of APIs and web scrapers to automatically populate the pet database.
