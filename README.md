@@ -1,5 +1,6 @@
 
 # Purrfect
+*This project won 2 awards: 3rd place and best theme* 
 
 ### Features:
   - A pet adoption website where users match with adoptable pets.
