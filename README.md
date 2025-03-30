@@ -20,7 +20,7 @@ Follow the steps below to get the project up and running locally using **XAMPP**
 
 ### Prerequisites
 - **XAMPP** installed on your system.
-- A basic understanding of **React** and **JavaScript**.
+- A basic understanding of  **JavaScript**.
 
 ### Installation
 
